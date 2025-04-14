@@ -1,7 +1,7 @@
 import requests
 import random
 
-GOOGLE_BOOKS_API = "AIzaSyBCrGS2jiNceAlJDOqsBWMzJCVbmJGPVLQ"
+GOOGLE_BOOKS_API = "MY_API_KEY"
 
 mood_genre = {
     "Happy": ["humor", "feel-good"],
