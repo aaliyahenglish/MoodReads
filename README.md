@@ -1,6 +1,10 @@
 # MoodReads 📚 
 Don't know what to read? Well, let's find a mood-based book recommender that helps you pick your next read based on how you're feeling. Whether you're happy, sad, or just want a surprise, this app has a book for you. Powered by the Google Books API.
 
+### Created By: Aaliyah English
+
+
+
 ## ✨ Features 
 
 - Choosing a mood from a dropdown menu
@@ -15,3 +19,10 @@ Don't know what to read? Well, let's find a mood-based book recommender that hel
 - Python
 - Pillow 'pip install pillow'
 - Requests 'pip install requests'
+
+
+
+
+
+
+
